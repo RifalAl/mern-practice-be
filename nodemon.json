@@ -2,7 +2,7 @@
   "env": {
     "DB_USER": "aldi4rifaldi",
     "DB_PASSWORD": "930yHkAPbrzxioyK",
-    "DB_NAME": "mern-practice",
+    "DB_NAME": "prods-mern-practice",
     "JWT_KEY": "aldi3rifaldi"
   }
 }
